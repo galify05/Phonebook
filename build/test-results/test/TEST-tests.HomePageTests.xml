@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.HomePageTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-27T11:17:00" hostname="NICKPC" time="0.014">
+  <properties/>
+  <testcase name="isHomeComponentPresentTest" classname="tests.HomePageTests" time="0.014"/>
+  <system-out><![CDATA[12:16:50.345 [Test worker] INFO  tests.TestBase -- Start testisHomeComponentPresentTest[]
+12:16:50.346 [Test worker] INFO  phonebook.utils.MyListener -- Before finde elements By.cssSelector: div:nth-child(2)>div>div>h1
+12:16:50.346 [Test worker] INFO  phonebook.utils.MyListener -- ------------------------------------------------
+12:17:00.406 [Test worker] INFO  phonebook.utils.MyListener -- List size is 0
+12:17:00.406 [Test worker] INFO  phonebook.utils.MyListener -- ------------------------------------------------
+12:17:00.406 [Test worker] INFO  phonebook.utils.MyListener -- The locator will find --> By.cssSelector: [href='/home']
+12:17:00.406 [Test worker] INFO  phonebook.utils.MyListener -- ------------------------------------------------
+12:17:00.419 [Test worker] INFO  phonebook.utils.MyListener -- The locator found By.cssSelector: [href='/home']
+12:17:00.419 [Test worker] INFO  phonebook.utils.MyListener -- ------------------------------------------------
+12:17:00.488 [Test worker] INFO  phonebook.utils.MyListener -- Before finde elements By.cssSelector: div:nth-child(2)>div>div>h1
+12:17:00.489 [Test worker] INFO  phonebook.utils.MyListener -- ------------------------------------------------
+12:17:00.501 [Test worker] INFO  phonebook.utils.MyListener -- List size is 1
+12:17:00.502 [Test worker] INFO  phonebook.utils.MyListener -- ------------------------------------------------
+12:17:00.502 [Test worker] INFO  tests.TestBase -- PASSED:isHomeComponentPresentTest
+12:17:00.502 [Test worker] INFO  tests.TestBase -- Stop test
+12:17:00.502 [Test worker] INFO  tests.TestBase -- ========================================================================================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
