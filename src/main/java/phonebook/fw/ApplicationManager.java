@@ -38,9 +38,6 @@ public class ApplicationManager {
 
         } else if (browser.equalsIgnoreCase("edge")) {
             driver = new EdgeDriver();
-
-//        } else if (browser.equalsIgnoreCase("Cent")) {
-//            driver = new ChromiumDriver();
         }
 
         WebDriverListener listner = new MyListener();

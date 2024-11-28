@@ -13,7 +13,7 @@
                 <methods>
                     <exclude name=".*From.*"></exclude>
                 </methods>
-            </class>>
+            </class>
             <class name="tests.DeleteContactTasts"/>
         </classes>
     </test>
